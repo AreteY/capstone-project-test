@@ -22,5 +22,5 @@ jobs:
           environment-file: neon-environment.yml
           activate-environment: earth-analytics-neon
       - run: conda list
-      - run: jupyter nbconvert --to notebook --execute /notebooks/s3-data-storage.ipynb
+      - run: jupyter nbconvert --to notebook --execute "$/tree/main/notebooks/s3-data-storage.ipynb"
 
