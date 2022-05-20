@@ -9,41 +9,41 @@ dependencies:
   # Core scientific python
   - numpy
   - pyqt
-  - tqdm=4.63
-  - kiwisolver=1.4
+  - tqdm
+  - kiwisolver
 
   # Plotting
-  - matplotlib=3.5
-  - plotly=5.6
-  - seaborn=0.11
+  - matplotlib
+  - plotly
+  - seaborn
 
   # Spatial packages
-  - pysal=2.6
+  - pysal
   - pyproj>=3.0
-  - rasterstats=0.16
-  - geopy=2.2
-  - cartopy=0.20
-  - descartes=1.1
-  - contextily=1.2
-  - earthpy=0.9
-  - folium=0.12
-  - geojson=2.5
-  - mapboxgl=0.10
-  - geocoder=1.38
-  - xarray=2022.3
+  - rasterstats
+  - geopy
+  - cartopy
+  - descartes
+  - contextily
+  - earthpy
+  - folium
+  - geojson
+  - mapboxgl
+  - geocoder
+  - xarray
   - rioxarray>=0.3
-  - scipy=1.8
-  - netcdf4=1.5
-  - nc-time-axis=1.4
-  - regionmask=0.9
-  - h5py=3.6.0
+  - scipy
+  - netcdf4
+  - nc-time-axis
+  - regionmask
+  - h5py
 
   # Jupyter Environment
-  - papermill=2.3
-  - autopep8=1.6
-  - jupyterlab=3.3
-  - notebook=6.4
-  - ipython=8.2
-  - jupyter_contrib_nbextensions=0.5
-  - nbclean=0.1
-  - nbresuse=0.4
+  - papermill
+  - autopep8
+  - jupyterlab
+  - notebook
+  - ipython
+  - jupyter_contrib_nbextensions
+  - nbclean
+  - nbresuse
